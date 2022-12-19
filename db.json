@@ -1,0 +1,38 @@
+{
+"entrance_menu":[
+    {"entrance": "dadinho de tapioca", "price": 25.90, "image": "http://f.i.uol.com.br/folha/comida/images/11290453.jpeg", "id": 1},
+    {"entrance": "ceviche de salmão", "price": 34.90, "image": "https://img.itdg.com.br/tdg/images/recipes/000/178/268/263883/263883_original.jpg?w=1200", "id": 2},
+    {"entrance": "porção de pastéis", "price": 59.90, "image": "https://img.cybercook.com.br/receitas/666/receita-de-massa-de-pastel-2.jpeg", "id": 3},
+    {"eentrance": " porção de bolinho de bacalhau", "price": 22.90, "image": "https://imagens-revista.vivadecora.com.br/uploads/2022/01/Dicas-de-como-fazer-bolinho-de-bacalhau-Foto-iStock.jpg", "id": 4}
+    ],
+"drink_menu":[
+    {"drink": "coca-cola", "price": 8.90, "image": "https://media.cotabest.com.br/media/sku/refrigerante-garrafa-nao-retornavel-250ml-coca-colaks-un.png", "id": 10},
+    {"drink": "suco de laranja", "price": 12.90, "image": "https://riomarkennedyonline.com.br/riomarkennedyonline/2020/06/suco_de_laranja_kina_do_feij%C3%A3o_verde_riomar_kennedy-1.jpg", "id": 20},
+    {"drink": "gin tônica", "price": 32.90, "image": "https://gastronomiacarioca.zonasul.com.br/wp-content/uploads/2021/10/gin_tonica_rodrigo_azevedo_zona_sul_destaque.jpg", "id": 30},
+    {"drink": "heineken", "price": 9.90, "image": "https://d2r9epyceweg5n.cloudfront.net/stores/001/043/122/products/heine1-6b0abe3d25c868406a16015638999700-480-0.png", "id": 40}
+],
+"main_course_menu":[
+    {"main_course": "medalhão á piamontese", "price": 65.90, "image": "https://n2c8z6e5.rocketcdn.me/wp-content/uploads/2020/05/Arroz-a-piamontese-1.jpg", "id": 100},
+    {"main_course": "salmão grelhado no azeite", "price": 59.90, "image": "https://shoppingjardinsonline.com.br/shoppingjardinsonline/2021/08/Salmao-grelhado.jpeg", "id": 200},
+    {"main_course": "risoto de camarão", "price": 45.90, "image": "https://xtudoreceitas.com/wp-content/uploads/Risoto-de-Camarao.jpg", "id": 300},
+    {"main_course": "nhoque á bolonhesa", "price": 30.90, "image": "https://api.comidadodia.com/wp-content/uploads/2020/09/nhoque-de-batata-com-molho-bolonhesa-1200x1080.jpg", "id": 400}
+],
+"dessert_menu": [
+    {"dessert": "brownie com sorvete", "price": 19.90, "image": "https://www.auau.com.br/image/cache/data/up_system/product-13761/brownie-chocolate-preto-sorvete-1000x1000.jpg", "id": 1000},
+    {"dessert": "torta de limão", "price": 14.90, "image": "https://cooknenjoy.com/wp-content/uploads/2022/04/torta-de-limao-1800x1351.jpg", "id": 2000},
+    {"dessert": "petit gateau", "price": 24.90, "image": "https://receitinhas.com.br/wp-content/uploads/2017/02/petit-gateau-1200x799.jpg", "id": 3000},
+    {"dessert": "pudim", "price": 9.90, "image": "https://boasnovasmg.com.br/wp-content/uploads/2019/04/pudim-de-leite-condensado.png", "id": 4000}
+],
+"employees": [
+    {"name": "Vick", "office": "gerente", "wage": 3500, "id": 5},
+    {"name": "Jeniffer", "office": "cozinheira", "wage": 1700, "id": 6},
+    {"name": "Mariana", "office": "garçonete", "wage": 2000, "id": 7},
+    {"name": "Arley", "office": "auxiliar de limpeza", "wage": 1850, "id": 8}
+],
+"customers": [
+    {"cpf": 11111111111, "telephone": 222222222, "favorite_dish": "salmão grelhado no azeite", "id": 50},
+    {"cpf": 33333333333, "telephone": 444444444, "favorite_dish": "risoto de camrão", "id": 60},
+    {"cpf": 55555555555, "telephone": 666666666, "favorite_dish": "nhoque á bolonhesa", "id": 70},
+    {"cpf": 77777777777, "telephone": 888888888, "favorite_dish": "medalhão á piamontese", "id": 80}
+]
+}
